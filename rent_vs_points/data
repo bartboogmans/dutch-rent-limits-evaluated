@@ -1,0 +1,4 @@
+# Example data: replace these with your actual data
+house_points = [133, 129, 125, 121, 108, 104, 98, 94, 93]  # X values
+house_price_limits = [820.42,794.31,768.27, 742.21, 657.45, 631.40, 592.31, 566.21, 559.71]  # Y values
+house_energy_labels = ['A++', 'A+', 'A', 'B', 'C', 'D', 'E', 'F', 'G']  # Labels for the points
